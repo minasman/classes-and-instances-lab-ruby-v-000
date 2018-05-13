@@ -2,6 +2,6 @@ class Dog
   
 end
 
-jax = Dog.new 
-chico = Dog.new
-rocky = Dog.new
+fido = Dog.new 
+snoopy = Dog.new
+lassie = Dog.new
